@@ -6,3 +6,9 @@ Usage ./source_code.sh [FILE_TYPE] [DIRECTORY]
 Results of collection can be found in source_code.txt file in the directory when you call this script
 
 Notes: this script works only in *nix-like environment. NOT IN WINDOWS
+
+Example of usage:
+	./source_code.sh java . 
+	Find all .java files in current dir and all subdirs and collect it in one file ./source_code.txt
+
+Author: Pavel Drankov (c) 2017
