@@ -1,8 +1,8 @@
 Usage ./source_code.sh [FILE_TYPE] [DIRECTORY]
 	WHERE 
         	FILE_TYPE is a type of source code file like a java, c, cpp, go, php, js, html
-        	DIRECTORY is a path to dircetory with yours sources
+        	DIRECTORY is a path to dircetory with your sources
          
-Results of collection can be found in source_code.txt file in directory when you call this script
+Results of collection can be found in source_code.txt file in the directory when you call this script
 
-Notes: this script works only in *nix-like enviroment. NOT IN WINDOWS
+Notes: this script works only in *nix-like environment. NOT IN WINDOWS
